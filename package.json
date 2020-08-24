@@ -2,7 +2,7 @@
   "name": "virtual-counselor-test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jaywinebrenner.github.io/virtual-counselor-2.0/",
+  "homepage": "https://jaywinebrenner.github.io/virtual-counselor-4.0",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
